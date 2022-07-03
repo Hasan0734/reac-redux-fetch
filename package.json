@@ -1,5 +1,5 @@
 {
-  "name": "redux-react-fetch",
+  "name": "react-redux-firbase-todo",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
